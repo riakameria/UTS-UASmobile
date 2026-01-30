@@ -1,0 +1,3 @@
+- [x] Remove likes and isLiked variables from _DetailPageState
+- [x] Remove _handleLove function
+- [x] Remove the love button UI (Center widget with GestureDetector and Icon)
